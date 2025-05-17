@@ -117,7 +117,13 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Welcome to Coinbase Support
+
+Coinbase is the leading platform for buying, selling, and managing cryptocurrency. With a focus on security, simplicity, and innovation, Coinbase empowers millions of users to access the crypto economy with confidence.
+
+Our support team is here to help you every step of the way. Whether you need assistance with your account, transactions, or general inquiries, we’re committed to providing fast, reliable, and secure solutions.
+
+Need help? Contact Support Now.</p>
           </div>
         `
         break
